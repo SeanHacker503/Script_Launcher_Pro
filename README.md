@@ -139,7 +139,8 @@ The app requires these permissions:
 
 | Dashboard | Scripts Library | Terminal Output | Settings |
 |:---------:|:---------------:|:---------------:|:--------:|
-| ![Dashboard](screenshots/dashboard.png) | ![Scripts](screenshots/scripts.png) | ![Terminal](screenshots/terminal.png) | ![Settings](screenshots/settings.png) |
+| ![Dashboard](<img width="1080" height="2400" alt="17553685440023645919993039181044" src="https://github.com/user-attachments/assets/ba9f7f62-39c5-4426-bd52-ae756299f164" />
+) | ![Scripts](screenshots/scripts.png) | ![Terminal](screenshots/terminal.png) | ![Settings](screenshots/settings.png) |
 
 *Modern dark theme with beautiful animations and professional UI*
 
