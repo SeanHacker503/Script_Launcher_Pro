@@ -139,8 +139,11 @@ The app requires these permissions:
 
 | Dashboard | Scripts Library | Terminal Output | Settings |
 |:---------:|:---------------:|:---------------:|:--------:|
-| ![Dashboard](<img width="1080" height="2400" alt="17553685440023645919993039181044" src="https://github.com/user-attachments/assets/ba9f7f62-39c5-4426-bd52-ae756299f164" />
-) | ![Scripts](screenshots/scripts.png) | ![Terminal](screenshots/terminal.png) | ![Settings](screenshots/settings.png) |
+| ![Dashboard]<img width="1080" height="2400" alt="17553685440023645919993039181044" src="https://github.com/user-attachments/assets/ba9f7f62-39c5-4426-bd52-ae756299f164" />
+) | ![Scripts]<img width="1080" height="2400" alt="17553687986732740664953394287392" src="https://github.com/user-attachments/assets/b500e968-d5b5-47b5-9f40-c1ff884be855" />
+ | ![Terminal]<img width="1080" height="2400" alt="17553688561158946569199532214116" src="https://github.com/user-attachments/assets/78428543-6f8e-4476-b630-657226181f92" />
+ | ![Settings]<img width="1080" height="2400" alt="17553688867807355492234862902269" src="https://github.com/user-attachments/assets/b8aa6f1d-1b12-4148-b223-1e7f9fadb0fe" />
+ |
 
 *Modern dark theme with beautiful animations and professional UI*
 
