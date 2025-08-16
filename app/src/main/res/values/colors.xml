@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Script Launcher Pro Color Scheme -->
+
+    <!-- Primary Colors -->
+    <color name="primary">#6C63FF</color>
+    <color name="primary_dark">#4A42CC</color>
+    <color name="primary_light">#9C95FF</color>
+
+    <!-- Secondary Colors -->
+    <color name="secondary">#03DAC6</color>
+    <color name="secondary_dark">#018786</color>
+    <color name="secondary_light">#66FFF9</color>
+
+    <!-- Background Colors -->
+    <color name="background_dark">#0D0D0D</color>
+    <color name="surface_dark">#1A1A1A</color>
+    <color name="surface_variant">#2D2D2D</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#F0F0F0</color>
+    <color name="text_secondary">#CCCCCC</color>
+    <color name="text_disabled">#666666</color>
+
+    <!-- Category Colors -->
+    <color name="category_security">#FF6B6B</color>
+    <color name="category_network">#4ECDC4</color>
+    <color name="category_system">#45B7D1</color>
+    <color name="category_custom">#96CEB4</color>
+    <color name="category_tools">#FECA57</color>
+
+    <!-- System Colors -->
+    <color name="error">#FF5252</color>
+    <color name="success">#4CAF50</color>
+    <color name="warning">#FF9800</color>
+
+    <!-- Gradient Colors for Background Animation -->
+    <color name="gradient_1">#0D0D0D</color>
+    <color name="gradient_2">#1A1A2E</color>
+    <color name="gradient_3">#16213E</color>
+    <color name="gradient_4">#0D0D0D</color>
+
+    <!-- Material Design Compatibility -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+</resources>
